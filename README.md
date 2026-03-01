@@ -15,4 +15,23 @@ Tuğçe Tuna¹², Michael S. Totty³, Muhammad Badarnee⁴, Flávio Afonso Gonç
 
 ---
 
-https://www.nature.com/articles/s42003-025-08580-0#additional-information
+**Project**  
+This research project was conducted at the Maren Lab, Department of Psychological and Brain Sciences, Texas A&M University, and formed part of the PhD research of Tuğçe Tuna and Michael S. Totty.
+
+---
+
+DOI: https://doi.org/10.1038/s42003-025-08580-0
+
+---
+
+Author:
+
+**Flavio Mourao**  
+
+**Contact:**  
+🧠 Maren Lab – Beckman Institute for Advanced Science and Technology  
+   University of Illinois Urbana-Champaign
+   
+   email: mourao.fg@illinois.edu  
+    
+---
